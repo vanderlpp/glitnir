@@ -1,0 +1,65 @@
+godmode_detected: Modo Dios Detectado
+godmode_detected_message_discord: Cliente activó el truco para Modo Dios
+fly_detected: Modo Volar Detectado
+fly_detected_message_discord: Cliente activó el truco para Modo Volar
+nocost_detected: Truco Sin Costo Detectado
+nocost_detected_message_discord: Cliente activó el truco para Sin Costo
+freefly_detected: Truco Freefly Detectado
+freefly_detected_message_discord: Cliente activó el truco para Modo Cámara Freefly
+ghostmode_detected: Truco Modo Fantasma Detectado
+ghostmode_detected_message_discord: Cliente activó el truco para Modo Fantasma
+carryweight_detected: Límite de Peso Excedido
+carryweight_detected_message_discord: >-
+  El peso que lleva el jugador está por encima de su límite de {carryLimit}. Actualmente
+health_cheat_detected: Límite de Salud Excedido
+health_cheat_detected_message_discord: >-
+  La salud del jugador está por encima de su límite de {healthLimit}. Actualmente
+stamina_cheat_detected: Límite de Resistencia Excedido
+stamina_cheat_detected_message_discord: >-
+  La resistencia del jugador está por encima de su límite de {staminaLimit}. Actualmente
+fly_cheat_active: >-
+  Se detectó al jugador volando activamente.
+exploremap_cheat_message: Explorar Todo (Mapa)
+exploremap_cheat_message_discord: >-
+  El jugador intentó usar el truco de Explorar Todo (Mapa).
+  Esta acción fue evitada.
+cheat_detected: TRUCO DETECTADO
+cheat_engine_detected: Motor de Trucos Detectado
+nowebhook_cheat_detected: >-
+  Se detectó un truco, pero no se configuró un webhook. No se publicará nada en Discord. El jugador será desconectado.
+  Por favor, configure un webhook en el archivo AzuAntiCheat_Webhook.yml que se encuentra en la carpeta de configuración del servidor.
+carryweight_cheat_message: Peso Modificado
+chat_cheat_message: Expulsado por intentar usar un truco a través del chat
+connect_error_message: >-
+  Faltan mods que requiere el servidor.
+  
+  Por favor, consulte con sus administradores, lea el error encontrado en su registro o vuelva a descargar el paquete
+console_cheat_message: Expulsado por intentar usar un truco a través de la consola
+damage_cheat_message: Has sido expulsado; Daño masivo detectado.
+exploreall_cheat_message: Has sido expulsado; Intentó usar el truco de Explorar Todo (Mapa)
+fly_cheat_message: Volar
+fly2_cheat_message: Volando
+freefly_cheat_message: Modo de cámara Freefly
+ghostmode_cheat_message: Modo fantasma
+godmode_cheat_message: Modo Dios
+health_cheat_message: Salud Modificada
+moderator_connect_error_message: >-
+  Te faltan mods que el servidor requiere.
+  
+  Los moderadores pueden tener mods extra, pero todavía deben tener todos los requeridos.
+nocost_cheat_message: Sin costo de construcción
+stamina_cheat_message: Resistencia Modificada
+banned_mods_message: Has sido expulsado; Mods prohibidos detectados (No en la lista blanca o gris)
+non_whitelisted_mods_clientmessage: Has sido expulsado; Mods no en la lista blanca o sin coincidencia detectados
+non_whitelisted_mods_discord_message: Mod(s) no en la lista blanca/sin coincidencia encontrados
+missing_mods_clientmessage: Has sido expulsado; Mods faltantes o sin coincidencia detectados
+missing_mods_discord_message: Mod(s) faltantes/sin coincidencia encontrados
+steam_name: Nombre de Steam
+steam_id: ID de Steam
+player_name: Nombre del jugador
+player_location: Ubicación del jugador
+player_world: Mundo del jugador
+additional_info: Información adicional
+server_name: Nombre del servidor
+azu_ban: Prohibido
+azu_kick: Expulsado

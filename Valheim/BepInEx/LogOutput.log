@@ -1,0 +1,222 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - valheim (16/04/2023 22:21:56)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2105 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2020.3.45.6687953
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 16 plugins to load
+[Info   :   BepInEx] Loading [MoreSlotsPatcher 1.1.0]
+[Info   :   BepInEx] Loading [PlantEverything 1.13.6]
+[Info   :   BepInEx] Loading [AzuAntiCheat 4.2.0]
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:48: Loaded localization file #0 - 'localization' language: 'English'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:48: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:48: Loaded localization file #0 - 'localization' language: 'Portuguese_Brazilian'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:48: Loaded localization file #1 - 'localization_extra' language: 'Portuguese_Brazilian'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   :   BepInEx] Loading [PvPAlwaysOn 2.0.5]
+[Info   :   BepInEx] Loading [Groups 1.1.16]
+[Info   :   BepInEx] Loading [WardIsLove 3.2.1]
+[Info   :   BepInEx] Loading [Jotunn 2.12.4]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.12.4 loaded successfully
+[Info   :   BepInEx] Loading [BoneAppetit 3.3.0]
+[Message:Boneappetit.BoneAppetit] Prepping Kitchen...
+[Message:Boneappetit.BoneAppetit] Big thanks to MeatwareMonster!
+[Info   :   BepInEx] Loading [PlanBuild 0.14.0]
+[Info   :PlanBuild.Blueprints.BlueprintManager] Initializing BlueprintManager
+[Info   :PlanBuild.Blueprints.BlueprintSync] Loading known blueprints
+[Info   :PlanBuild.Plans.PlanManager] Initializing PlanManager
+[Info   :   BepInEx] Loading [OdinShip 0.2.9]
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.6]
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #0 - 'localization' language: 'English'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #0 - 'localization' language: 'Portuguese_Brazilian'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #1 - 'localization_extra' language: 'Portuguese_Brazilian'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #0 - 'localization' language: 'English'
+
+[Warning: Unity Log] Duplicate key English found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.English.yml
+[Warning: Unity Log] Duplicate key German found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.German.yml
+[Warning: Unity Log] Duplicate key Russian found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Russian.yml
+[Warning: Unity Log] Duplicate key Spanish found for AzuAntiCheat. The duplicate file will be skipped.
+[Warning: Unity Log] Duplicate file was found at: E:\Github\Valheim\BepInEx\plugins\Azumatt-AzuAntiCheat\AzuAnticheat.Spanish.yml
+[Info   : Unity Log] 07/16/2023 20:47:58: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.1]
+[Info   :   BepInEx] Loading [OdinArchitect 1.2.7]
+[Info   :OdinArchitect.OdinArchitect] All the embedded resources was loaded
+[Info   :OdinArchitect.OdinArchitect] Loaded items and conversions
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.6]
+[Info   :   BepInEx] Loading [More Slots 1.1.6]
+[Info   :More Slots] More Slots mod - Created by Fang86
+[Info   :More Slots] Gravekeeper not found
+[Info   :   BepInEx] Loading [MassFarming 1.7]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :WardIsLove] WardIsLove [3.2.1] is up to date.
+[Info   : Unity Log] 07/16/2023 20:48:06: Starting to load scene:start
+
+[Info   : Unity Log] 07/16/2023 20:48:06: Using steam_appid.txt
+
+[Info   : Unity Log] 07/16/2023 20:48:06: Using steam APPID:892970
+
+[Info   : Unity Log] 07/16/2023 20:48:06: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 07/16/2023 20:48:13: Steam initialized, persona:vanderlpp
+
+[Info   : Unity Log] 07/16/2023 20:48:13: PlayFab custom ID set to "Steam_76561197990176566"
+
+[Info   : Unity Log] 07/16/2023 20:48:13: Using default prefs
+
+[Info   : Unity Log] 07/16/2023 20:48:13: Valheim version: 0.216.9 (network version 5)
+
+[Info   : Unity Log] 07/16/2023 20:48:13: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 20 commands to the Console
+[Info   : Unity Log] 07/16/2023 20:48:14: Render threading mode:MultiThreaded
+
+[Info   :Jotunn.Managers.InputManager] Registering 5 custom inputs
+[Warning: Unity Log] 07/16/2023 20:48:14: Missing audio clip in music respawn
+
+[Info   : Unity Log] 07/16/2023 20:48:14: Checking for installed DLCs
+
+[Info   : Unity Log] 07/16/2023 20:48:14: DLC:beta installed:False
+
+[Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
+[Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
+[Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
+[Info   :Jotunn.Managers.ItemManager] Adding 39 custom items to the ObjectDB
+[Info   : Unity Log] 07/16/2023 20:48:15:   failed to load: C:/Users/vande/AppData/LocalLow/IronGate/Valheim/characters_local/teste.fch.fch (Could not find file "C:\Users\vande\AppData\LocalLow\IronGate\Valheim\characters_local\teste.fch.fch")
+
+[Warning: Unity Log] 07/16/2023 20:48:15: No player data
+
+[Info   : Unity Log] 07/16/2023 20:48:15: Failed to load teste.fch
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 07/16/2023 20:48:15: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 07/16/2023 20:48:16: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 07/16/2023 20:48:16: Session auth respons callback
+
+[Info   : Unity Log] 07/16/2023 20:48:16: Starting music menu
+
+[Info   : Unity Log] 07/16/2023 20:48:17: PlayFab logged in as "Steam_76561197990176566"
+
+[Info   : Unity Log] 07/16/2023 20:48:17: PlayFab local entity ID is 63526E7F5813304E
+
+[Info   : Unity Log] 07/16/2023 20:48:35: Steam manager on destroy
+
