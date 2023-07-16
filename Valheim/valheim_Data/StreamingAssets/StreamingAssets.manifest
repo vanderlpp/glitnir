@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 148249168
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: general/ui/session_player_list
+      Dependencies:
+        Dependency_0: fonts/replacements
+    Info_1:
+      Name: fonts/replacements
+      Dependencies: {}
